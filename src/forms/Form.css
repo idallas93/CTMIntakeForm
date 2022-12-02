@@ -49,6 +49,10 @@ h1 {
   border-radius: 10px;
 }
 
+.flex-outer li button:hover {
+  background: #F51720
+}
+
 .flex-inner li {
   width: 100px;
   color: #013a63;

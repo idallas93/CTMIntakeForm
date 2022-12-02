@@ -1,6 +1,6 @@
-# Getting Started with Create React App
+# How to test this CTM Intake Form Project
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project was developed using React, Typescript, HTML, and CSS. To use this page locally, clone the repo, run "npm i" in the root of the project to download the dependencies, and then run the available scripts listed below.
 
 ## Available Scripts
 
